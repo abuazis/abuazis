@@ -4,7 +4,7 @@
 
 ### Roles :
 - Mobile Developer Freelance
-- Back End Developer Abuza ID
+- Back End Developer Abuza Inovation ID
 
 ### Playground :
 - Flutter (Android)
