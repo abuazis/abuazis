@@ -4,10 +4,11 @@
 
 ### Roles :
 - Mobile Developer Freelance
-- Full Stack Developer Abuza Inovation ID
+- Back End Developer Abuza Inovation ID
 
 ### Playground :
 - Flutter (Android)
 - Laravel
 - Lumen
+- Node JS
 - React JS
