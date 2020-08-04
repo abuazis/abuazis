@@ -10,4 +10,4 @@
 - Flutter (Android)
 - Laravel
 - Lumen
-- Vue JS
+- React JS
