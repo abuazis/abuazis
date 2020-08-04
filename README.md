@@ -10,5 +10,4 @@
 - Flutter (Android)
 - Laravel
 - Lumen
-- Node JS
-- React JS
+- Node JS (Adonis Framework)
