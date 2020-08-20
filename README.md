@@ -11,4 +11,3 @@
 - Laravel
 - Lumen
 - Node JS (Adonis Framework)
-- React JS
