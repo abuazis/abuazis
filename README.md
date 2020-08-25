@@ -7,7 +7,7 @@
 - Back End Developer Abuza Inovation ID
 
 ### Playground :
-- Flutter (Android)
+- Flutter (Android/IOS)
 - Laravel
 - Lumen
 - Node JS (Adonis Framework)
