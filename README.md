@@ -6,7 +6,8 @@
 - Mobile Developer Freelance
 
 ### Playground :
+- Dart
 - Flutter (Android/IOS)
 - Laravel
 - Lumen
-- Node JS (Adonis Framework)
+- Javascript (React)
