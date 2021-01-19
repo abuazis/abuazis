@@ -2,7 +2,7 @@
 ![Profile Views](https://gpvc.arturio.dev/abuazis)
 ![image](https://img.shields.io/github/followers/abuazis?label=follow&style=social)
     
-Hi there, I'm **Abu Toyib Al Aziz**, a **Software Developer** 🚀 from Indonesian.
+Hi there, I'm **Abu Toyib Al Aziz**, a **Flutter Developer** 🚀 from Indonesian.
 
 ### Talking about Personal Stuffs:
   - 🔭 I’m currently working on my personal projects
