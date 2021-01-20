@@ -25,9 +25,9 @@ Hi there, I'm **Abu Toyib Al Aziz**, a **Software Developer** 🚀 from Indonesi
 
 ### Languages and Tools:
 
-[<img align="left" alt="Flutter" height="30px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />][null-link]
-[<img align="left" alt="React" height="30px" src="https://www.ruhidesain.com/wp-content/uploads/2018/04/react.svg" />][null-link]
-[<img align="left" alt="JavaScript" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/js.png" />][null-link]
-[<img align="left" alt="Linux" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/laravel.png" />][null-link]
-[<img align="left" alt="Node" height="30px" src="https://www.pikpng.com/pngl/b/430-4309640_js-logo-nodejs-logo-clipart.png" />][null-link]
-[<img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/git.png" />][null-link]
+<img align="left" alt="Flutter" height="30px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
+<img align="left" alt="React" height="30px" src="https://www.ruhidesain.com/wp-content/uploads/2018/04/react.svg" />
+<img align="left" alt="JavaScript" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/js.png" />
+<img align="left" alt="Linux" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/laravel.png" />
+<img align="left" alt="Node" height="30px" src="https://www.pikpng.com/pngl/b/430-4309640_js-logo-nodejs-logo-clipart.png" />
+<img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/git.png" />
