@@ -31,4 +31,5 @@ Hi there, I'm **Abu Toyib Al Aziz**, a **Software Developer** 🚀 from Indonesi
 <img align="left" alt="JavaScript" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/js.png" />
 <img align="left" alt="Linux" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/laravel.png" />
 <img align="left" alt="Node" height="30px" src="https://www.pikpng.com/pngl/b/430-4309640_js-logo-nodejs-logo-clipart.png" />
+<img align="left" alt="Java" height="30px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />
 <img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/icons/git.png" />  
