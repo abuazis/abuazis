@@ -17,11 +17,8 @@ Hi there, I'm **Abu Toyib Al Aziz**, a **Software Developer** 🚀 from Indonesi
 
 <p>
     <a href="https://abuazis.github.io/personal" target="blank"><img align="left" alt="udoyhasan.com" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/web.png" /></a>
-    <a href="https://web.facebook.com/AbuToyibAlAzis" target="blank"><img align="left" alt="udoyhasan | Facebook" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/facebook.png" /></a>
-    <a href="https://www.youtube.com/channel/UC__rvSyramahQN1w_IneftQ" target="blank"><img align="left" alt="udoyhasan | YouTube" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/youtube.png" /></a>
     <a href="https://twitter.com/abuzaio" target="blank"><img align="left" alt="udoyhasan | Twitter" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/twitter.png" /></a>
     <a href="https://linkedin.com/in/abuazis" target="blank"><img align="left" alt="udoyhasan | LinkedIn" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/linkedin.png" /></a>
-    <a href="https://instagram.com/abuzaio" target="blank"><img align="left" alt="udoyhasan | Instagram" height="25px" src="https://raw.githubusercontent.com/udoyhasan/udoyhasan/main/social/instagram.png" /></a>
 </p>
 
 <br />
